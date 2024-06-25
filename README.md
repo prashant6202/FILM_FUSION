@@ -1,1 +1,2 @@
-<h1>FILM FUSION CERTIFICATE</h1>
+<h1 align="center">FILM FUSION CERTIFICATE</h1>
+
